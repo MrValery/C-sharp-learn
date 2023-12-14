@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tile_Calculator_Version_2", "Tile_Calculator_Version_2\Tile_Calculator_Version_2.csproj", "{D941074D-6EB1-4A65-9866-0B04D06BC6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D941074D-6EB1-4A65-9866-0B04D06BC6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D941074D-6EB1-4A65-9866-0B04D06BC6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D941074D-6EB1-4A65-9866-0B04D06BC6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D941074D-6EB1-4A65-9866-0B04D06BC6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B9FA25-8EEB-4654-AEBE-25465AF0F0CD}
+	EndGlobalSection
+EndGlobal
